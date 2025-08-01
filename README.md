@@ -33,7 +33,7 @@ This is a personal learning repository, and as such, I'm not accepting external 
 
 You can follow my progress and connect with me here:
 
-  * **GitHub**:
+  * **GitHub**:https://github.com/Priyanvi9
 -----
 
 **Happy Coding\!**
