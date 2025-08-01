@@ -14,12 +14,12 @@ The primary goal of this repo is to keep my knowledge organized and track my pro
 Repository Structure
 The repository is structured as follows:
 
-/html-css-js-projects: This folder contains all the small projects and code exercises I've built using HTML, CSS, and JavaScript. Each project resides in its own dedicated sub-folder.
+/projects: This folder contains all the small projects and code exercises I've built using HTML, CSS, and JavaScript. Each project resides in its own dedicated sub-folder.
 
-/learning-notes: In this folder, you'll find my daily notes. I use simple .txt files to save key points, commands, and concepts related to both Web Development and DevOps.
+notes-txt: In this, you'll find my daily notes. I use simple .txt files to save key points, commands, and concepts related to both Web Development and DevOps.
 
 What You Can Find Here
-Small Web Projects: Mini-projects like landing pages, calculators, to-do lists, and more.
+Small Web Projects: Mini-projects like landing pages..
 
 Code Snippets: Small pieces of code written to understand specific concepts like Flexbox, Grid, or DOM Manipulation.
 
@@ -34,8 +34,8 @@ This is a personal learning repository, and as such, I'm not accepting external 
 Let's Connect
 You can follow my progress and connect with me here:
 
-GitHub: [Link to your GitHub profile]
+GitHub: 
 
-Portfolio: [Link to your portfolio, if you have one]
+
 
 Happy Coding!
