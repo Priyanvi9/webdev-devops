@@ -1,0 +1,29 @@
+casting/parsing it into int
+
+when the code begins to run , the only run agent goes from line to line in the ORDER it which written- thread wise - synchronous javascript code
+
+I/O heavy operations - task in computer program that involves a lot of data transfer b/w the program and external system or devices.These operation - reading a file, starting a clock, HTTP request
+reading a File var a = readFile(a.text)
+starting a Clock - var a = wait(1)
+HTTP request - request goes to server and then server respond to us
+
+fs - file system - external library - nodejs fie system modules
+require - stmt to import/export external/internal modules 
+const fs = require("fs"); // fs is a variable name and fs inside quotes is library both name can be diff as well as same
+utf-8 is encoding 
+read file sync- read file synchronously
+read file - read file asynchronously - use this 
+functional arguments = passing a function to another function as an arguments 
+call back - example I've started washing machine for laundry, clothes washed machine call back me that the cloth has washed
+together all work is doing - asynchronously javascript - readFile
+function readFile(err,data){
+    if(err){
+        console.log("There is an error);
+    }
+    else{
+        console.log(data);
+    }
+}
+setTimeOut(function,time) - time is in millisec/sec- first arguments - callback, second argument - delay
+cpu intensive task done/printed first although the i/o task has been done it stay in a Callback queue
+concurrency is not parallelism 

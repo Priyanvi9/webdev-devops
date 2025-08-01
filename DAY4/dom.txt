@@ -1,0 +1,22 @@
+dom - document object model - goal is to abstract the structures of the document into a tree of object, allowing scripts to manipulate the content and structure dynamically.
+This abstraction enables more complex interactions and functionalities beyond just static HTML
+
+how to select - fetching elements
+querySelector - document.querySelector("queryname-say-h1").innerHTML
+querySelectorAll - select all 
+getElementById - select that specific id
+getElementByClassName - select that specific class
+getElementsByClassNam - select all that class
+
+updating-
+.innerHTML
+.TextContent
+use (.value) - for "input" only ,,, for rest elements use .innerHTML
+deleting elements - 
+removeChild - removes a specific node of a parent - parentnode.removeChild("");
+onclick - function that triggers whenever you click on a button
+
+adding elements -
+createElement - create element outside the Document object model
+appendChild - append at the end in the tag or element in a html document of your website at any time in your time
+<h1><h2> <h3> <h4> all the heading tags ,,,h1 is the highest heading and h6 is the lowest heading and h4 is greater than h5 

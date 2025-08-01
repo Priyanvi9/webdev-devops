@@ -1,0 +1,28 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+
+#box{
+    background-color: blue;
+}
+.heading{
+    color: #670ae0;
+}
+h1{
+    text-align:center;
+}
+/* button{
+    background-color: green;
+} */
+ #outer{
+    font-weight: 25px;
+ }
+ #inner{
+    font-weight:10px;
+ }
+ #heh{
+    height:100px;
+    width:100px;
+    background-color: green;
+    border-radius:50%;
+ }

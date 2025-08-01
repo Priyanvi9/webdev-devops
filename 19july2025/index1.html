@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loader</title>
+</head>
+<style>
+    *{
+        margin:0px;
+        padding:0px;
+    }
+    #loader{
+        height:300px;
+        width:300px;
+        position: absolute;
+        top:200px;
+        left:300px;
+        border-radius: 50%;
+        border:50px solid #1a535c;
+        border-top: 50px solid #4ECDC4;
+        animation: rotates 3s ease-in 0s infinite normal;
+    }
+    @keyframes rotates{
+        from {transform: rotate(0deg);}
+        to   {transform:rotate(360deg);}
+    }
+</style>
+<body>
+    <div id="loader">
+
+    </div>
+</body>
+</html>

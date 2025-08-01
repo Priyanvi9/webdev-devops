@@ -1,0 +1,46 @@
+install wsl for windows - ubuntu
+they are case sensitive - small letters
+pwd - print working directory
+cd - change directory
+mkdir - make directory
+touch - create an empty file  - updates time
+cd .. - just like undo
+vi - edit the file in terminal - exit = esc + :wq --- two modes - insert(editing- press i/a/o) and escape(exit)
+cat - show the content
+ls - l = long listing - here l is used for long listing
+ls - list all the item - ls - lrth == listing,recursively( z to a), time stamp, human readable form (size-kb,mb,gb) 
+cp - copy the file/folder
+mv - move folder
+history - shows all the frequently used commands at that time of the cli.
+sudo useradd username ...............  sudo passwd priyanvi(for creating password)  .......  su priyanvi -- for login as a user name priyanvi ..........$ bash..wapis purane user mein aane ke liye phir write two times....exit
+rmdir - rf == remove directory forcefully - removes empty folder
+rm filename == removes empty file
+top - just like task manager
+du - sh* - display the exact size of the directory in human readable format
+df - kh == disk free kilobyte human readable
+rmdir - rf * == remove all the contents(files only not folders,,,if there are folders present delete it by using the command rm foldernames  ) of the directory forcefully
+ps -aef|more = just like task manager - shows all the process and also allows scrolling
+ps -aef= just like task manager - shows all the process doesn't allows scrolling
+kill -pisid(process id)
+who - tells how many users logged in that session
+who am i - tells the name of the user of which the terminal is open
+
+
+man command_name - manually gives help of any command
+grep - finding any string words - research on your own
+sed - stream editor - research
+read = 4, write = 2 , execute = 1
+d - directory rwx(owner - read,write,execute) rwx(groups) rx(others) ==775
+-rw-rw-r-- == 664
+chmod(change mode) - to change the mode ,to change the permission
+chmod -permission == to remove permission
+apache server - web server to create web page - html based
+whenever we stop the instance and then restart the instance then public ip always changes but private doesnit to prevent this changement of public ip we use elastic ip
+elastic ip - associated to public ip
+user group - identity center - enterprise
+auto scaling - resources management
+
+id
+node 
+npm 
+nvm

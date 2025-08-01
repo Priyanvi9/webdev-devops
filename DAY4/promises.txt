@@ -1,0 +1,21 @@
+classes are the blueprint for creating objects
+class 
+    properties-variables
+    methods-functions{}
+objects
+class   
+    constructor(arguments){}
+    functions{}
+objects -> const objectName = new className(arguments)
+
+objects - > key-value pairs - > let userInfo = {
+                                            name:"Priyanvi",
+                                            age:19,
+                                            function()
+                                        }
+constructor used to initialise the properties of the object,automatically called whenever we attached the NEW keyword for creating instance of a class or object of a class,implicitly called/automatically called.
+
+
+Promises - they are the class , promises your that i'll return you something in future-1hr done
+represents a eventual completion or failure of an async operation and its resultinng value
+two approach - call back based approach and promise based approach
