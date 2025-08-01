@@ -1,12 +1,5 @@
 # WebDev & DevOps Learning Journey
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite)" alt="HTML5 Badge"/\>
-\<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite)" alt="CSS3 Badge"/\>
-\<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack)" alt="JavaScript Badge"/\>
-\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite)" alt="Git Badge"/\>
-\</p\>
-
 ## About This Repository
 
 This repository documents my ongoing learning journey in **Web Development** and **DevOps**. Here, I create small projects using HTML, CSS, and JavaScript, while also noting down important concepts I learn daily in simple text files.
