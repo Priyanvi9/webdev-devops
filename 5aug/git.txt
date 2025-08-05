@@ -1,0 +1,27 @@
+git - version control
+It is distributed on cloud
+collaboration
+tracking
+recovery
+
+
+for ist time need to configure github in our system 
+git config --global user.name "Priyanvi Gupta"
+git config --global user.email "xqyqwih12@gmail.com"
+git config --global color.ui auto
+
+Mandatory commands:-
+git init
+git remote add origin "link of git initialised repo published on github"
+git pull origin main
+git status
+
+git add . (add all files)  or git add file_name
+git status
+git commit -m "Commit message"
+git push 
+git checkout -b "branch_name"
+git puch --set-upstream origin "branch_name"
+
+
+

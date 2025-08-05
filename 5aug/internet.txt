@@ -1,0 +1,67 @@
+internet - interconnected system of networks
+client(me) -> www.google.com -> ISP -> DNS server -> ip address -> client -> google server -> client(me) 
+submarine cable map - cables (fibres inside ocean)
+
+MEAN - mongo db , express js(backend), angular(frontend) , node js(backend) - no sql
+
+MERN - mongo db , exoress js , react js(frontend) , node js - no sql
+
+Java full stack - 1. Foundational Skills:
+Core Java:
+Solid understanding of Java syntax, object-oriented programming, data structures, and algorithms. 
+HTML, CSS, and JavaScript:
+Essential for building the user interface and interactive elements of web applications. 
+Version Control (Git):
+Learn to track changes, collaborate with others, and manage code effectively. 
+2. Back-End Development:
+Java Frameworks:
+Master Spring Boot for building robust and scalable applications. Explore other frameworks like Spring MVC or Hibernate. 
+RESTful APIs:
+Learn to design and build RESTful APIs for communication between the front-end and back-end. 
+Database Management:
+Familiarize yourself with relational databases (SQL) and potentially NoSQL databases (like MongoDB). 
+3. Front-End Development:
+JavaScript Frameworks/Libraries:
+Choose between frameworks like React, Angular, or Vue.js to build dynamic user interfaces. 
+Front-End Build Tools:
+Learn tools like Webpack or Parcel for bundling and optimizing front-end code. 
+4. Advanced Concepts:
+Cloud Computing:
+Gain experience with cloud platforms like AWS, Azure, or Google Cloud for deployment and scaling. 
+Microservices:
+Understand the concept of microservices and how they can be used to build modular and scalable applications. 
+Testing:
+Implement unit tests, integration tests, and end-to-end tests to ensure code quality. 
+5. Project Work:
+Build a Portfolio:
+Create several projects that demonstrate your skills in both front-end and back-end development. This is crucial for showcasing your abilities to potential employers. 
+Contribute to Open Source:
+Engage with the open-source community to gain experience and collaborate with other developers. 
+
+
+
+building/developers team
+tester team(automated/manual)
+hosting team(devops team)
+maintenance team/support team
+
+
+SDLC :-
+    Waterfall model
+    Iterative model
+    Incremental model
+    V shaped model
+    Agile model
+    Spiral model
+    RAD (Rapid application development) model
+
+SSL (secure socket layers certification) 
+url - subdomain + domain
+education.rohanAcademy.com
+
+domain (unique identifier) - google,amazom
+subdomain - gpay, gmeet, gphotos ...aws , amazon shopping
+tld(top level domain) (not unique) - .in(india) .com(commercial) .org(organisation) .edu(education) .uk(united kingdom) ---amazon.in , amazon.com
+
+
+
