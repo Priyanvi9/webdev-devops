@@ -1,3 +1,5 @@
 emmet abbreviations - website for emmet shortcuts
 i want to bold + highlight + underline the content - b mark u u mark b 
 image tag - align ="left/right /etc"
+which input is required and mandatory ....simply add "required" without quotation in the tag in which you want 
+like in email 
